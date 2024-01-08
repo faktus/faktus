@@ -2,7 +2,7 @@ Hi 👋 My name is Todor Enchev
 =============================
 Student at SPGE"Djon Atanasov"
 ------------------------------
-I've been learning code for 2 years. I started with HTML, but really found a passion for Python and Artificial Intelligence.
+I've been learning code for 2 years. I started with HTML, but really found a passion for Python and Generative AI.
 * 🌍  I'm based in Bulgaria
 * ✉️  You can contact me at [tdr.enchev@gmail.com](mailto:tdr.enchev@gmail.com)
 * 🧠  I'm learning Django
